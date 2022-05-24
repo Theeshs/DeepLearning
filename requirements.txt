@@ -52,7 +52,7 @@ spacy==2.1.9
 SQLAlchemy==1.2.19
 srsly==1.0.1
 tensorboard==2.0.2
-tensorflow==2.0.0
+tensorflow==2.6.4
 tensorflow-estimator==2.0.1
 termcolor==1.1.0
 Theano==1.0.4
