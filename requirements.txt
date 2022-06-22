@@ -26,7 +26,7 @@ matplotlib==3.1.2
 MiniSom==2.2.3
 murmurhash==1.0.2
 nltk==3.4.5
-numpy==1.17.4
+numpy==1.22.0
 oauthlib==3.1.0
 opt-einsum==3.1.0
 pandas==0.25.3
